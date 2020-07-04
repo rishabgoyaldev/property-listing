@@ -1,0 +1,33 @@
+/* Custom style sheet for the app */
+
+body {
+  padding-top: 5rem;
+  background-color: #e52e4d;
+  color: #fff;
+}
+
+.main-content {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.data-table {
+  background-color: #fff;
+  color: #000;
+}
+
+th {
+  text-align: center !important;
+}
+
+.ml-10 {
+  margin-left: 10px !important;
+}
+
+.modal {
+  color: #000 !important;
+}
+
+.form-group {
+  text-align: left;
+}
